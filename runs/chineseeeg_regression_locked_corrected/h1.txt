@@ -1,0 +1,23 @@
+﻿         lexical  strokes  embedding
+subject                             
+sub-04   0.00000 -0.00002    0.00000
+sub-06   0.00001  0.00006   -0.00001
+sub-07   0.00008  0.00007    0.00003
+sub-08   0.00002  0.00021    0.00000
+sub-09   0.00004  0.00009    0.00001
+sub-10   0.00017  0.00016    0.00002
+sub-14   0.00003  0.00003    0.00001
+n_subjects: 7
+lexical_mean: 5.1098168056936834e-05
+lexical_positive: 7
+lexical_zero: 0
+lexical_p: 0.0078125
+strokes_mean: 8.386903331381035e-05
+strokes_positive: 6
+strokes_zero: 0
+strokes_p: 0.015625
+embedding_mean: 7.675296370666742e-06
+embedding_positive: 6
+embedding_zero: 0
+embedding_p: 0.0546875
+h1_pass: True

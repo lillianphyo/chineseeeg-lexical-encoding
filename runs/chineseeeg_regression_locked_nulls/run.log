@@ -1,0 +1,227 @@
+﻿  sub-04 GarnettDream run 1: 4817 chars, 132648 samples
+  sub-04 GarnettDream run 2: 4033 chars, 114673 samples
+  sub-04 GarnettDream run 3: 4883 chars, 133848 samples
+  sub-04 GarnettDream run 4: 3546 chars, 121886 samples
+  sub-04 GarnettDream run 5: 4591 chars, 124692 samples
+  sub-04 GarnettDream run 6: 4014 chars, 110307 samples
+  sub-04 GarnettDream run 7: 3558 chars, 98467 samples
+  sub-04 GarnettDream run 8: 5032 chars, 138810 samples
+  sub-04 GarnettDream run 9: 3794 chars, 104745 samples
+  sub-04 GarnettDream run 10: 5405 chars, 148840 samples
+  sub-04 GarnettDream run 11: 3983 chars, 109870 samples
+  sub-04 GarnettDream run 12: 4382 chars, 120912 samples
+  sub-04 GarnettDream run 13: 3464 chars, 95028 samples
+  sub-04 GarnettDream run 14: 4553 chars, 124480 samples
+  sub-04 GarnettDream run 15: 4252 chars, 115745 samples
+  sub-04 GarnettDream run 16: 4203 chars, 114997 samples
+  sub-04 GarnettDream run 17: 4800 chars, 131250 samples
+  sub-04 GarnettDream run 18: 4668 chars, 127535 samples
+  sub-04 LittlePrince run 2: 3343 chars, 94295 samples
+  sub-04 LittlePrince run 3: 2868 chars, 80899 samples
+  sub-04 LittlePrince run 4: 3583 chars, 100918 samples
+  sub-04 LittlePrince run 5: 1527 chars, 43706 samples
+  sub-04 LittlePrince run 6: 3220 chars, 91304 samples
+  sub-04 LittlePrince run 7: 3732 chars, 104580 samples
+ split     model        r               alphas
+locked         N 0.394478              100 100
+locked       N+L 0.394480       100 100 100000
+locked N-strokes 0.394501              100 100
+locked     N+L+E 0.394483 100 100 100000 10000
+locked     N-eye 0.087818                 1000
+shuffle null p = {'delta_r': 0.5920398009950248, 'delta_r_reselected': 0.6019900497512438} (observed delta r 0.0000)
+circular null p = {'delta_r': 0.4975124378109453, 'delta_r_reselected': 0.5323383084577115} (observed delta r 0.0000)
+wrote runs\chineseeeg_regression_locked_nulls\results.csv
+  sub-06 GarnettDream run 1: 4817 chars, 132228 samples
+  sub-06 GarnettDream run 2: 4033 chars, 110778 samples
+  sub-06 GarnettDream run 3: 4883 chars, 134080 samples
+  sub-06 GarnettDream run 4: 3546 chars, 98302 samples
+  sub-06 GarnettDream run 5: 4591 chars, 126022 samples
+  sub-06 GarnettDream run 6: 4014 chars, 110120 samples
+  sub-06 GarnettDream run 7: 3558 chars, 98728 samples
+  sub-06 GarnettDream run 8: 5032 chars, 138886 samples
+  sub-06 GarnettDream run 9: 3794 chars, 105572 samples
+  sub-06 GarnettDream run 10: 5405 chars, 148979 samples
+  sub-06 GarnettDream run 11: 3983 chars, 109976 samples
+  sub-06 GarnettDream run 12: 4382 chars, 122768 samples
+  sub-06 GarnettDream run 13: 3464 chars, 95783 samples
+  sub-06 GarnettDream run 14: 4553 chars, 124759 samples
+  sub-06 GarnettDream run 15: 4252 chars, 116819 samples
+  sub-06 GarnettDream run 16: 4203 chars, 114851 samples
+  sub-06 GarnettDream run 17: 4800 chars, 131378 samples
+  sub-06 GarnettDream run 18: 4668 chars, 127988 samples
+  sub-06 LittlePrince run 2: 3343 chars, 94264 samples
+  sub-06 LittlePrince run 3: 2868 chars, 83450 samples
+  sub-06 LittlePrince run 4: 3583 chars, 101032 samples
+  sub-06 LittlePrince run 5: 1527 chars, 45088 samples
+  sub-06 LittlePrince run 6: 3220 chars, 91325 samples
+  sub-06 LittlePrince run 7: 3732 chars, 106713 samples
+ split     model        r                  alphas
+locked         N 0.353000              1000 10000
+locked       N+L 0.353014       1000 10000 100000
+locked N-strokes 0.352941              1000 10000
+locked     N+L+E 0.353005 1000 10000 100000 10000
+locked     N-eye 0.036203                    1000
+shuffle null p = {'delta_r': 0.08955223880597014, 'delta_r_reselected': 0.05472636815920398} (observed delta r 0.0000)
+circular null p = {'delta_r': 0.05970149253731343, 'delta_r_reselected': 0.029850746268656716} (observed delta r 0.0000)
+wrote runs\chineseeeg_regression_locked_nulls\results.csv
+  sub-07 GarnettDream run 1: 4817 chars, 132910 samples
+  sub-07 GarnettDream run 2: 4033 chars, 111063 samples
+  sub-07 GarnettDream run 3: 4883 chars, 133914 samples
+  sub-07 GarnettDream run 4: 3546 chars, 98086 samples
+  sub-07 GarnettDream run 5: 4591 chars, 125861 samples
+  sub-07 GarnettDream run 6: 4014 chars, 110430 samples
+  sub-07 GarnettDream run 7: 3558 chars, 98238 samples
+  sub-07 GarnettDream run 8: 5032 chars, 138335 samples
+  sub-07 GarnettDream run 9: 3794 chars, 104030 samples
+  sub-07 GarnettDream run 10: 5405 chars, 148349 samples
+  sub-07 GarnettDream run 11: 3983 chars, 109720 samples
+  sub-07 GarnettDream run 12: 4382 chars, 120643 samples
+  sub-07 GarnettDream run 13: 3464 chars, 95610 samples
+  sub-07 GarnettDream run 14: 4553 chars, 124712 samples
+  sub-07 GarnettDream run 15: 4252 chars, 116513 samples
+  sub-07 GarnettDream run 16: 4203 chars, 115872 samples
+  sub-07 GarnettDream run 17: 4800 chars, 132488 samples
+  sub-07 LittlePrince run 2: 3343 chars, 93006 samples
+  sub-07 LittlePrince run 3: 2868 chars, 81240 samples
+  sub-07 LittlePrince run 4: 3583 chars, 100872 samples
+  sub-07 LittlePrince run 5: 1527 chars, 44485 samples
+  sub-07 LittlePrince run 6: 3220 chars, 91285 samples
+  sub-07 LittlePrince run 7: 3732 chars, 106006 samples
+ split     model        r               alphas
+locked         N 0.414726             100 1000
+locked       N+L 0.414805       100 1000 10000
+locked N-strokes 0.414655             100 1000
+locked     N+L+E 0.414831 100 1000 10000 10000
+locked     N-eye 0.109769                  100
+shuffle null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0001)
+circular null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0001)
+wrote runs\chineseeeg_regression_locked_nulls\results.csv
+  sub-08 GarnettDream run 1: 4817 chars, 132696 samples
+  sub-08 GarnettDream run 2: 4033 chars, 111006 samples
+  sub-08 GarnettDream run 3: 4883 chars, 133776 samples
+  sub-08 GarnettDream run 4: 3546 chars, 98567 samples
+  sub-08 GarnettDream run 5: 4591 chars, 126722 samples
+  sub-08 GarnettDream run 6: 4014 chars, 110716 samples
+  sub-08 GarnettDream run 7: 3558 chars, 97462 samples
+  sub-08 GarnettDream run 8: 5032 chars, 137723 samples
+  sub-08 GarnettDream run 9: 3794 chars, 104018 samples
+  sub-08 GarnettDream run 10: 5405 chars, 147815 samples
+  sub-08 GarnettDream run 11: 3983 chars, 108880 samples
+  sub-08 GarnettDream run 12: 4382 chars, 119958 samples
+  sub-08 GarnettDream run 13: 3464 chars, 95204 samples
+  sub-08 GarnettDream run 14: 4553 chars, 123629 samples
+  sub-08 GarnettDream run 15: 4252 chars, 116144 samples
+  sub-08 GarnettDream run 16: 4203 chars, 114747 samples
+  sub-08 GarnettDream run 17: 4800 chars, 131092 samples
+  sub-08 GarnettDream run 18: 4668 chars, 127574 samples
+  sub-08 LittlePrince run 2: 3343 chars, 93852 samples
+  sub-08 LittlePrince run 3: 2868 chars, 82987 samples
+  sub-08 LittlePrince run 4: 3583 chars, 100737 samples
+  sub-08 LittlePrince run 5: 1527 chars, 44851 samples
+  sub-08 LittlePrince run 6: 3220 chars, 91679 samples
+  sub-08 LittlePrince run 7: 3732 chars, 105783 samples
+ split     model        r                   alphas
+locked         N 0.290925               1000 10000
+locked       N+L 0.290949        1000 10000 100000
+locked N-strokes 0.290717               1000 10000
+locked     N+L+E 0.290951 1000 10000 100000 100000
+locked     N-eye 0.074990                     1000
+shuffle null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0000)
+circular null p = {'delta_r': 0.009950248756218905, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0000)
+wrote runs\chineseeeg_regression_locked_nulls\results.csv
+  sub-09 GarnettDream run 1: 4817 chars, 133071 samples
+  sub-09 GarnettDream run 2: 4033 chars, 111665 samples
+  sub-09 GarnettDream run 3: 4883 chars, 134202 samples
+  sub-09 GarnettDream run 4: 3546 chars, 98100 samples
+  sub-09 GarnettDream run 5: 4591 chars, 126040 samples
+  sub-09 GarnettDream run 6: 4014 chars, 110190 samples
+  sub-09 GarnettDream run 7: 3558 chars, 97564 samples
+  sub-09 GarnettDream run 8: 5032 chars, 137162 samples
+  sub-09 GarnettDream run 9: 3794 chars, 104126 samples
+  sub-09 GarnettDream run 10: 5405 chars, 147530 samples
+  sub-09 GarnettDream run 11: 3983 chars, 108893 samples
+  sub-09 GarnettDream run 12: 4382 chars, 120076 samples
+  sub-09 GarnettDream run 13: 3464 chars, 94846 samples
+  sub-09 GarnettDream run 14: 4553 chars, 123685 samples
+  sub-09 GarnettDream run 15: 4252 chars, 115765 samples
+  sub-09 GarnettDream run 16: 4203 chars, 114805 samples
+  sub-09 GarnettDream run 17: 4800 chars, 131075 samples
+  sub-09 GarnettDream run 18: 4668 chars, 127610 samples
+  sub-09 LittlePrince run 4: 3583 chars, 100762 samples
+  sub-09 LittlePrince run 5: 1527 chars, 44450 samples
+  sub-09 LittlePrince run 6: 3220 chars, 91650 samples
+  sub-09 LittlePrince run 7: 3732 chars, 106021 samples
+ split     model        r                alphas
+locked         N 0.435314             100 10000
+locked       N+L 0.435352       100 10000 10000
+locked N-strokes 0.435226             100 10000
+locked     N+L+E 0.435358 100 10000 10000 10000
+locked     N-eye 0.102516                   100
+shuffle null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0000)
+circular null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0000)
+wrote runs\chineseeeg_regression_locked_nulls\results.csv
+  sub-10 GarnettDream run 1: 4817 chars, 131808 samples
+  sub-10 GarnettDream run 2: 4033 chars, 110521 samples
+  sub-10 GarnettDream run 3: 4883 chars, 134127 samples
+  sub-10 GarnettDream run 4: 3546 chars, 107612 samples
+  sub-10 GarnettDream run 5: 4591 chars, 125922 samples
+  sub-10 GarnettDream run 6: 4014 chars, 110196 samples
+  sub-10 GarnettDream run 7: 3558 chars, 98373 samples
+  sub-10 GarnettDream run 8: 5032 chars, 138627 samples
+  sub-10 GarnettDream run 9: 3794 chars, 104593 samples
+  sub-10 GarnettDream run 10: 5405 chars, 148046 samples
+  sub-10 GarnettDream run 11: 3983 chars, 109027 samples
+  sub-10 GarnettDream run 12: 4382 chars, 120494 samples
+  sub-10 GarnettDream run 13: 3464 chars, 103247 samples
+  sub-10 GarnettDream run 14: 4553 chars, 125578 samples
+  sub-10 GarnettDream run 15: 4252 chars, 116162 samples
+  sub-10 GarnettDream run 16: 4203 chars, 115396 samples
+  sub-10 GarnettDream run 17: 4800 chars, 131834 samples
+  sub-10 GarnettDream run 18: 4668 chars, 127903 samples
+  sub-10 LittlePrince run 2: 3343 chars, 93304 samples
+  sub-10 LittlePrince run 3: 2868 chars, 82461 samples
+  sub-10 LittlePrince run 4: 3583 chars, 100944 samples
+  sub-10 LittlePrince run 5: 1527 chars, 45598 samples
+  sub-10 LittlePrince run 6: 3220 chars, 91437 samples
+  sub-10 LittlePrince run 7: 3732 chars, 106169 samples
+ split     model        r                alphas
+locked         N 0.417511             100 10000
+locked       N+L 0.417679       100 10000 10000
+locked N-strokes 0.417354             100 10000
+locked     N+L+E 0.417695 100 10000 10000 10000
+locked     N-eye 0.097795                   100
+shuffle null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0002)
+circular null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0002)
+wrote runs\chineseeeg_regression_locked_nulls\results.csv
+  sub-14 GarnettDream run 1: 4817 chars, 131588 samples
+  sub-14 GarnettDream run 2: 4033 chars, 110064 samples
+  sub-14 GarnettDream run 3: 4883 chars, 132588 samples
+  sub-14 GarnettDream run 4: 3546 chars, 96880 samples
+  sub-14 GarnettDream run 5: 4591 chars, 124699 samples
+  sub-14 GarnettDream run 6: 4014 chars, 109038 samples
+  sub-14 GarnettDream run 7: 3558 chars, 97248 samples
+  sub-14 GarnettDream run 8: 5032 chars, 136893 samples
+  sub-14 GarnettDream run 10: 5405 chars, 147332 samples
+  sub-14 GarnettDream run 11: 3983 chars, 108359 samples
+  sub-14 GarnettDream run 12: 4382 chars, 119728 samples
+  sub-14 GarnettDream run 13: 3464 chars, 95069 samples
+  sub-14 GarnettDream run 14: 4553 chars, 124085 samples
+  sub-14 GarnettDream run 15: 4252 chars, 115703 samples
+  sub-14 GarnettDream run 16: 4203 chars, 114864 samples
+  sub-14 GarnettDream run 17: 4800 chars, 131252 samples
+  sub-14 GarnettDream run 18: 4668 chars, 127580 samples
+  sub-14 LittlePrince run 2: 3343 chars, 93295 samples
+  sub-14 LittlePrince run 3: 2868 chars, 81674 samples
+  sub-14 LittlePrince run 4: 3583 chars, 100403 samples
+  sub-14 LittlePrince run 5: 1527 chars, 49751 samples
+  sub-14 LittlePrince run 6: 3220 chars, 91072 samples
+  sub-14 LittlePrince run 7: 3732 chars, 105111 samples
+ split     model        r                 alphas
+locked         N 0.516966              100 10000
+locked       N+L 0.516998       100 10000 100000
+locked N-strokes 0.516938              100 10000
+locked     N+L+E 0.517008 100 10000 100000 10000
+locked     N-eye 0.114234                   1000
+shuffle null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0000)
+circular null p = {'delta_r': 0.004975124378109453, 'delta_r_reselected': 0.004975124378109453} (observed delta r 0.0000)
+wrote runs\chineseeeg_regression_locked_nulls\results.csv

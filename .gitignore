@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/main.pdf
+docs/*.pdf
+.DS_Store
+.coverage
+paper/*.zip
+paper/*.docx

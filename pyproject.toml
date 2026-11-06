@@ -1,0 +1,21 @@
+[project]
+name = "chineseeeg-lexical-encoding"
+version = "0.0.1"
+description = "Overlap-corrected encoding test of character surprisal and frequency in ChineseEEG (ds004952)"
+authors = [{name = "Khin Pyae Phyo San", email = "khin.s.038@ms.saitama-u.ac.jp"}]
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

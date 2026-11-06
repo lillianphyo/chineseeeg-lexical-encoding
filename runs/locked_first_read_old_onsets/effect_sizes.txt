@@ -1,0 +1,27 @@
+(1) per-subject delta r: {'sub-04': 5e-06, 'sub-06': 1.3e-05, 'sub-07': 8.2e-05, 'sub-08': 2.9e-05, 'sub-09': 3.2e-05, 'sub-10': 0.000163, 'sub-14': 3.5e-05}
+    mean 0.000051, bootstrap 95% CI [0.000020, 0.000093]
+(2) % of r(N): {'sub-04': 0.0013, 'sub-06': 0.0037, 'sub-07': 0.0197, 'sub-08': 0.0101, 'sub-09': 0.0074, 'sub-10': 0.0391, 'sub-14': 0.0067}
+    % of r(N-eye): {'sub-04': 0.0058, 'sub-06': 0.0361, 'sub-07': 0.0747, 'sub-08': 0.0398, 'sub-09': 0.0309, 'sub-10': 0.1681, 'sub-14': 0.0306}
+    r(N): {'sub-04': 0.3945, 'sub-06': 0.353, 'sub-07': 0.4147, 'sub-08': 0.2907, 'sub-09': 0.4353, 'sub-10': 0.4173, 'sub-14': 0.5169}  r(N-eye): {'sub-04': 0.0882, 'sub-06': 0.036, 'sub-07': 0.1094, 'sub-08': 0.0739, 'sub-09': 0.1036, 'sub-10': 0.0972, 'sub-14': 0.114}
+(3) permutation:
+    sub-04: observed 0.000005, null mean -0.000001 sd 0.000014, z 0.5, p 0.3234
+    sub-06: observed 0.000013, null mean -0.000005 sd 0.000013, z 1.4, p 0.1194
+    sub-07: observed 0.000082, null mean -0.000023 sd 0.000013, z 7.9, p 0.0050
+    sub-08: observed 0.000029, null mean -0.000016 sd 0.000013, z 3.6, p 0.0050
+    sub-09: observed 0.000032, null mean -0.000029 sd 0.000015, z 4.2, p 0.0050
+    sub-10: observed 0.000163, null mean -0.000043 sd 0.000018, z 11.5, p 0.0050
+    sub-14: observed 0.000035, null mean -0.000005 sd 0.000007, z 6.1, p 0.0050
+(4) per-channel delta r (refit from group sums, penalties from results.csv):
+    sub-04: channel mean 0.000005 (csv 0.000005); frontal quarter -0.000006, posterior quarter 0.000020; top E[117, 62, 104, 105, 61]
+    sub-06: channel mean 0.000013 (csv 0.000013); frontal quarter 0.000028, posterior quarter 0.000015; top E[64, 59, 117, 111, 58]
+    sub-07: channel mean 0.000082 (csv 0.000082); frontal quarter 0.000019, posterior quarter 0.000068; top E[108, 93, 101, 98, 107]
+    sub-08: channel mean 0.000029 (csv 0.000029); frontal quarter 0.000015, posterior quarter 0.000040; top E[96, 91, 7, 95, 13]
+    sub-09: channel mean 0.000032 (csv 0.000032); frontal quarter 0.000018, posterior quarter -0.000011; top E[64, 58, 63, 95, 104]
+    sub-10: channel mean 0.000163 (csv 0.000163); frontal quarter -0.000014, posterior quarter 0.000272; top E[100, 95, 81, 89, 99]
+    sub-14: channel mean 0.000035 (csv 0.000035); frontal quarter 0.000015, posterior quarter 0.000032; top E[109, 110, 103, 116, 102]
+    group: frontal 0.000011, posterior 0.000062, top5 E[95, 64, 96, 58, 101]
+(5) lexical kernels (channel-mean |w| peak and signed mean at peak, over posterior quarter):
+    log_frequency: GFP peak 250 ms; posterior mean at peak per subject [0.00067, 0.00191, 0.00976, 0.0025, 0.01043, 0.00085, 0.00041]
+      300-500 ms posterior mean per subject [0.00134, 0.00246, -0.00123, 0.00067, 0.00052, -0.00503, 0.00018]
+    surprisal: GFP peak 312 ms; posterior mean at peak per subject [-0.00137, -0.00281, -0.0066, 0.00144, -0.01008, -0.00692, -0.00313]
+      300-500 ms posterior mean per subject [-0.00363, -0.0037, -0.00441, 0.00024, -0.00295, -0.00418, -0.00234]

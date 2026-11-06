@@ -1,0 +1,17 @@
+22298 rows from 2 subjects; n = 1-10 characters
+duration = 0.4268 * n + (-0.0864) s, residual SD 103 ms
+overhead: 0.0768 s from the slope, 0.0864 s from the intercept
+eye-tracker loop predicts slope 0.35 + overhead and intercept -overhead; non-slip loop predicts slope 0.35, intercept 0
+  sub-04: slope 0.4277 intercept -0.0855 rows 11149
+  sub-05: slope 0.4259 intercept -0.0872 rows 11149
+     rows  mean_duration      sd  span_over_n  corrected_step
+n                                                            
+2     554         0.7299  0.1223       0.3649          0.3799
+3     646         1.1970  0.0279       0.3990          0.4235
+4     740         1.6188  0.0314       0.4047          0.4229
+5     814         2.0427  0.0374       0.4085          0.4232
+6     818         2.4625  0.0426       0.4104          0.4225
+7     930         2.9039  0.0637       0.4148          0.4256
+8     960         3.3611  0.0749       0.4201          0.4302
+9    1054         3.8291  0.0826       0.4255          0.4349
+10  15352         4.1759  0.1140       0.4176          0.4251
